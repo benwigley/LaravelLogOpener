@@ -1,3 +1,3 @@
 # LaravelLogOpener
 
-This handy Sublime Text Plugin will simply opens your laravel.log file. Handy when using `Log::info()` for quick debugging.
+This handy Sublime Text Plugin simply opens your laravel.log file with the shortcut `Command + Alt + L`. Handy when using `Log::info()` for quick debugging.
