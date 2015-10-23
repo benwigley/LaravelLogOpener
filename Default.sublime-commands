@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "LaravelLogOpener: Open laravel.log",
+    "command": "laravel_log_opener"
+  }
+]
